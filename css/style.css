@@ -1,0 +1,9 @@
+body {
+  background-color: #001f3d;
+}
+.container input {
+  background-color: #dcdcdc;
+}
+.container input:focus {
+  background-color: white;
+}
