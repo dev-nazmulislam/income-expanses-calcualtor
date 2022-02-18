@@ -11,7 +11,7 @@
 
 [Live Site](https://income-expenses-calculator.netlify.app/)
 
-[GitHub](https://github.com/Porgramming-Hero-web-course/money-master-dev-nazmulislam)
+[GitHub](https://github.com/dev-nazmulislam/income-expanses-calcualtor)
 
 ![screenshot-127 0 0 1_5500-2022 02 17-03_18_41](https://user-images.githubusercontent.com/97091081/154358958-b075f444-ef00-4890-9048-2062a02e6018.png)
 
